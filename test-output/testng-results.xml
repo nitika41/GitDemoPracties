@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15550" started-at="2020-03-07T10:30:47Z" finished-at="2020-03-07T10:31:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15550" started-at="2020-03-07T10:30:47Z" finished-at="2020-03-07T10:31:02Z">
+      <class name="FullProjectSetUp.JenkinGitPracties.SeleniumDemlo">
+        <test-method status="PASS" signature="browserLaunching()[pri:0, instance:FullProjectSetUp.JenkinGitPracties.SeleniumDemlo@53b32d7]" name="browserLaunching" duration-ms="15513" started-at="2020-03-07T10:30:47Z" finished-at="2020-03-07T10:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunching -->
+      </class> <!-- FullProjectSetUp.JenkinGitPracties.SeleniumDemlo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

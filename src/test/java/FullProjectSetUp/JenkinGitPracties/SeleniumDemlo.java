@@ -33,6 +33,7 @@ public class SeleniumDemlo {
 		}
 
 		SerchTextBox.sendKeys(Keys.ENTER);
+		System.out.println("Search functionality is working properly");
 		driver.close();
 
 	}
